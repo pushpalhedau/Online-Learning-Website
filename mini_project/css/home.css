@@ -1,0 +1,50 @@
+*{
+    font-family: cursive;
+    background-color: white;
+    margin:0%;
+}
+
+.navbar{
+    background-color :#4075f1;
+}
+
+.navbar div{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.nav_logo{
+    background-color: black;
+    width: 10%;
+    height: 10%;
+}
+
+.logo{
+    background-color: black;
+    width: 85%;
+    height: 100%;
+}
+
+.nav_btn{
+    background-color: black;
+    width: 30%;
+}
+
+.btn{
+    background-color: black;
+    font-size: 120%;
+    color: white;
+    width: 30%;
+    height: 10%;
+}
+
+.btnhover{
+    border-radius: 7px;
+    transition-duration: 0.5s;
+    background-color: grey;
+}
+
+.hr{
+    background-color: gray;
+    height: 3px;
+}
